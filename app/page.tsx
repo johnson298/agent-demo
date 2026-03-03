@@ -13,19 +13,7 @@ function Page() {
         <div className="hidden md:block">contact@daotaotindung.com</div>
       </div>
 
-      {/* Header */}
-      <header className="px-6 py-4 flex justify-center lg:justify-between items-center bg-[#0a0a0a] border-b border-white/10 sticky top-0 z-50 backdrop-blur-md bg-opacity-80">
-        <div className="text-2xl font-black text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-yellow-600 tracking-tighter">
-          HVTD EDUHUB
-        </div>
-        <nav className="hidden lg:flex gap-8 text-sm uppercase font-bold tracking-wide text-gray-300">
-          <Link href="#" className="hover:text-yellow-400 transition-colors">Nhắc nợ</Link>
-          <Link href="#" className="hover:text-yellow-400 transition-colors">Trung gian</Link>
-          <Link href="#" className="hover:text-yellow-400 transition-colors">Cộng đồng</Link>
-          <Link href="#" className="hover:text-yellow-400 transition-colors">Hỗ trợ</Link>
-          <Link href="#" className="hover:text-yellow-400 transition-colors">Tư vấn</Link>
-        </nav>
-      </header>
+
 
       {/* Hero Section */}
       <section className="max-w-7xl mx-auto px-6 py-16 lg:py-24 grid lg:grid-cols-2 gap-16 items-center">
