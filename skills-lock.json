@@ -6,6 +6,11 @@
       "sourceType": "github",
       "computedHash": "8b3f52f9a80aced790979ca3e781ff242634f1664e7d4996127efd9a048561ca"
     },
+    "git-commit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "2607fc60629b82b257136dd2a7a373f0a4466c0b49df7746d845d59313c99b21"
+    },
     "git-workflow": {
       "source": "supercent-io/skills-template",
       "sourceType": "github",
