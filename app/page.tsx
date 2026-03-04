@@ -6,7 +6,7 @@ function Page() {
     <div className="min-h-screen bg-[#000000] text-white font-[Inter,sans-serif]">
       {/* Top Banner */}
       <div className="bg-yellow-600/20 text-yellow-400 text-sm py-2 px-4 flex justify-between items-center border-b border-white/5">
-        <div>0778 164 777</div>
+        <div>09384727111</div>
         <div>
           <span className="animate-pulse font-medium">★ LỘ TRÌNH SỬ DỤNG TÍN DỤNG THÔNG MINH ★</span>
         </div>
